@@ -1,0 +1,15 @@
+@charset "utf-8";
+.test{
+	border:1px solid red;
+}
+div .row{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+img{
+	margin-left: 20px;
+}
+.top-menu{
+	background-color: white;
+	box-shadow: 0px 8px 8px 0px #ddd;
+}
